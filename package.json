@@ -10,7 +10,7 @@
     "dev": "nodemon src/server.js"
   },
   "keywords": [],
-  "author": "Vincius Bertunho",
+  "author": "Felipe Campos",
   "license": "MIT",
   "dependencies": {
     "@prisma/adapter-pg": "^7.3.0",
